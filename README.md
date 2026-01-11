@@ -1,1 +1,2 @@
-# Adventure_Game
+This is my fifth coding project. I built a text-based adventure game where the player makes choices that determine their fate on a tropical island. The program uses nested conditional logic to create multiple branching story paths. Players navigate through scenarios by choosing between options like entering caves, following animals, solving riddles, or exploring abandoned ships. Each decision leads to different outcomes—either survival and escape, or game over. The game validates all user input and loops until valid options are entered. Created on 1/10/26.
+(HINT: the answer to the riddle is piano)
